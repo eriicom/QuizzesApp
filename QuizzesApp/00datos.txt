@@ -1,0 +1,27 @@
+Luis Ignacio Núñez Casal c099
+Eric Miguel Ordás Martín c101 y MacBook Air M2 personal
+
+
+Mejoras realizadas:
+
+    + Tareas Obligatorias realizadas
+    
+    Optativas:
+
+    + Actualizar favoritos desde Play
+    + Menú Contextual con Limpiar y Ver respuesta
+    + Gestos y Animaciones al hacer interacciones sobre la foto y al responder
+    + Filtrar Acertados (activo para ver todos los quizzes y desactivar toggle para ver solo los que faltan)
+    + Record Persistente (ver record que se tiene)
+    
+    Optativas no guiadas y propuestas por los estudiantes:
+    
+    + Añadidas nuevas funciones en el menú contextual: Trampas (suma 10 a la puntuación del usuario las veces que quiera,
+    aunque no tiene efecto en record persistente al ser una ilegalidad y coger "quizzes" del 500 al 1000 inexistentes, es más visual para parecer un "campeón") y Pista (el cual añade a la respuesta la primera letra de la solución correspondiente, solo eso, no da más pistas)
+    + También añadido sistema de rangos. En la pantalla principal, nos fijamos que record además es un botón,
+    al pulsarlo nos llevará a una pantalla donde veremos el record, los puntos actuales en la tanda de quizzes y además el
+    sistema de rangos dependiendo de cual es tu record en la plataforma. El jugador puede pulsar el boton de obtener rango
+    para ver a cuál pertence actualmente. Solo depende del record del jugador. El objetivo es llegar a Diamante y completar más de 100 quizzes diferentes.
+    
+    
+    
