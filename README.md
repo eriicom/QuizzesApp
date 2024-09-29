@@ -33,10 +33,6 @@ Below are some visuals of the project running on the iPhone 16 Pro.
   <img width="347" alt="Captura de pantalla 2024-09-29 a las 19 15 29" src="https://github.com/user-attachments/assets/08a7d3e8-b28d-4a77-a956-59f913468dfa">
 </div>
 
-### Screenshot 5
-<div align="center">
-  <img width="355" alt="Screenshot 5" src="path/to/your/image5.png">
-</div>
 
 ## Installation
 
