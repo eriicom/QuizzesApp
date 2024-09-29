@@ -20,17 +20,17 @@ Below are some visuals of the project running on the iPhone 16 Pro.
 
 ### Screenshot 2
 <div align="center">
-  <img width="350" alt="Captura de pantalla 2024-09-29 a las 19 13 05" src="https://github.com/user-attachments/assets/42e6386a-a6ce-4930-9a21-2ca639841bcf">
+  <img width="350" alt="Captura de pantalla 2024-09-29 a las 19 13 05" src="https://github.com/user-attachments/assets/98a7d1e4-73bf-4ea3-8b90-3ea0ae447031">
 </div>
 
 ### Screenshot 3
 <div align="center">
-  <img width="355" alt="Captura de pantalla 2024-09-29 a las 19 15 00" src="https://github.com/user-attachments/assets/b243b113-05eb-46cb-a696-730046731860">
+  <img width="355" alt="Captura de pantalla 2024-09-29 a las 19 15 00" src="https://github.com/user-attachments/assets/18b8ed4f-d136-417d-830e-38bfd25edd8d">
 </div>
 
 ### Screenshot 4
 <div align="center">
-  <img width="347" alt="Captura de pantalla 2024-09-29 a las 19 15 29" src="https://github.com/user-attachments/assets/08a7d3e8-b28d-4a77-a956-59f913468dfa">
+  <img width="347" alt="Captura de pantalla 2024-09-29 a las 19 15 29" src="https://github.com/user-attachments/assets/1ccdcf93-dc8e-40c9-93c7-390bbbdb704d">
 </div>
 
 
