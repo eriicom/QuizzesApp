@@ -15,22 +15,22 @@ Below are some visuals of the project running on the iPhone 16 Pro.
 
 ### Screenshot 1
 <div align="center">
-  <img width="351" alt="Captura de pantalla 2024-09-29 a las 19 12 25" src="https://github.com/user-attachments/assets/83f5df48-2d84-46dd-a444-2315efa0e993">
+  <img width="351" alt="img1" src="https://github.com/user-attachments/assets/83f5df48-2d84-46dd-a444-2315efa0e993">
 </div>
 
 ### Screenshot 2
 <div align="center">
-  <img width="350" alt="Captura de pantalla 2024-09-29 a las 19 13 05" src="https://github.com/user-attachments/assets/98a7d1e4-73bf-4ea3-8b90-3ea0ae447031">
+  <img width="350" alt="img2" src="https://github.com/user-attachments/assets/98a7d1e4-73bf-4ea3-8b90-3ea0ae447031">
 </div>
 
 ### Screenshot 3
 <div align="center">
-  <img width="355" alt="Captura de pantalla 2024-09-29 a las 19 15 00" src="https://github.com/user-attachments/assets/18b8ed4f-d136-417d-830e-38bfd25edd8d">
+  <img width="355" alt="img3" src="https://github.com/user-attachments/assets/18b8ed4f-d136-417d-830e-38bfd25edd8d">
 </div>
 
 ### Screenshot 4
 <div align="center">
-  <img width="347" alt="Captura de pantalla 2024-09-29 a las 19 15 29" src="https://github.com/user-attachments/assets/1ccdcf93-dc8e-40c9-93c7-390bbbdb704d">
+  <img width="347" alt="img4" src="https://github.com/user-attachments/assets/1ccdcf93-dc8e-40c9-93c7-390bbbdb704d">
 </div>
 
 
