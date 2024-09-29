@@ -15,7 +15,7 @@ Below are some visuals of the project running on the iPhone 16 Pro.
 
 ### Screenshot 1
 <div align="center">
-  <img width="351" alt="Captura de pantalla 2024-09-29 a las 19 12 25" src="https://github.com/user-attachments/assets/2975adf4-2d44-45da-a2b2-7df5e57c317b">
+  <img width="351" alt="Captura de pantalla 2024-09-29 a las 19 12 25" src="https://github.com/user-attachments/assets/83f5df48-2d84-46dd-a444-2315efa0e993">
 </div>
 
 ### Screenshot 2
