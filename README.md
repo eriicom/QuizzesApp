@@ -14,16 +14,16 @@ Welcome to **Quizz App**, a dynamic and interactive quiz application! This proje
 Below are some visuals of the project running on the iPhone 16 Pro.
 
 ### Screenshot 1
-![Screenshot 1](path/to/your/image1.png)
+<img width="351" alt="Captura de pantalla 2024-09-29 a las 19 12 25" src="https://github.com/user-attachments/assets/2975adf4-2d44-45da-a2b2-7df5e57c317b">
 
 ### Screenshot 2
-![Screenshot 2](path/to/your/image2.png)
+<img width="350" alt="Captura de pantalla 2024-09-29 a las 19 13 05" src="https://github.com/user-attachments/assets/42e6386a-a6ce-4930-9a21-2ca639841bcf">
 
 ### Screenshot 3
-![Screenshot 3](path/to/your/image3.png)
+<img width="355" alt="Captura de pantalla 2024-09-29 a las 19 15 00" src="https://github.com/user-attachments/assets/b243b113-05eb-46cb-a696-730046731860">
 
 ### Screenshot 4
-![Screenshot 4](path/to/your/image4.png)
+<img width="347" alt="Captura de pantalla 2024-09-29 a las 19 15 29" src="https://github.com/user-attachments/assets/08a7d3e8-b28d-4a77-a956-59f913468dfa">
 
 ### Screenshot 5
 ![Screenshot 5](path/to/your/image5.png)
