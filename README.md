@@ -15,24 +15,23 @@ Below are some visuals of the project running on the iPhone 16 Pro.
 
 ### Screenshot 1
 <div align="center">
-  <img width="351" alt="img1" src="https://github.com/user-attachments/assets/83f5df48-2d84-46dd-a444-2315efa0e993">
+  <img width="351" alt="img1" src="https://github.com/user-attachments/assets/11b8aef5-3912-4607-b5a5-c48dbc398af7">
 </div>
 
 ### Screenshot 2
 <div align="center">
-  <img width="350" alt="img2" src="https://github.com/user-attachments/assets/98a7d1e4-73bf-4ea3-8b90-3ea0ae447031">
+  <img width="350" alt="img2" src="https://github.com/user-attachments/assets/47236a02-6d55-421d-9f24-9d9f0c3a18da">
 </div>
 
 ### Screenshot 3
 <div align="center">
-  <img width="355" alt="img3" src="https://github.com/user-attachments/assets/18b8ed4f-d136-417d-830e-38bfd25edd8d">
+  <img width="355" alt="img3" src="https://github.com/user-attachments/assets/581534fd-845b-4908-b1ce-e65ea8e65182">
 </div>
 
 ### Screenshot 4
 <div align="center">
-  <img width="347" alt="img4" src="https://github.com/user-attachments/assets/1ccdcf93-dc8e-40c9-93c7-390bbbdb704d">
+  <img width="347" alt="img4" src="https://github.com/user-attachments/assets/6b042960-2213-4e25-adc6-e4fa99515f47">
 </div>
-
 
 ## Installation
 
